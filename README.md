@@ -1,4 +1,4 @@
-# Digital Wallet App
+# PUFS Wallet App
 
 Ever thought of creating a beautiful UI App for use in Online Payments? Then this is it
 
@@ -18,10 +18,3 @@ Ever thought of creating a beautiful UI App for use in Online Payments? Then thi
 > 5. If using a physical device, scan the QR Code on your CLI to compile the code
 > 6. 👏👏👏 That's it 👏👏👏, Feel free to reuse and use this code for profit
 
-## 📸 ScreenShots
-
-<img src="https://cdn.dribbble.com/users/4208985/screenshots/9888015/media/266faf920e2d6ef31a0d2d177df8ac21.png?compress=1&resize=800x600" width="800"/>
-
-## 🤓 Author(s)
-
-**Simoniel Musyoki**
